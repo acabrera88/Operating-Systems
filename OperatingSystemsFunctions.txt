@@ -2,3 +2,7 @@ One of the main functions of an operating system is Booting.
 Booting is the start up part of the Operating System. 
 The Boot Loader tries to find what operating system to run from the disk.
 The contents of the disk is then copied into memory.
+
+Another main function of an operating system is Timesharing.
+Timesharing is when a whole bunch of processes are taking turns to run.
+Timesharing gives the illusion to users that these processes are running at the same time!
