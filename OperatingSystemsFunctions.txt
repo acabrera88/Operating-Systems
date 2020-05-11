@@ -1,0 +1,4 @@
+One of the main functions of an operating system is Booting. 
+Booting is the start up part of the Operating System. 
+The Boot Loader tries to find what operating system to run from the disk.
+The contents of the disk is then copied into memory.
