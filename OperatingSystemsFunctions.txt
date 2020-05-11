@@ -6,3 +6,7 @@ The contents of the disk is then copied into memory.
 Another main function of an operating system is Timesharing.
 Timesharing is when a whole bunch of processes are taking turns to run.
 Timesharing gives the illusion to users that these processes are running at the same time!
+
+The last function of an perating system I will share is Error Detection.
+This is when the operating system takes approriate action on errors it finds so that it runs correctly and smoothly.
+Some error examples include: connection failure, memory error, power failure, and many others.
